@@ -22,6 +22,10 @@ Step7: Display the output
 
 Step8: End the program.
 ## Program:
+~~~
+#Developed by: v.charan sai
+#RegisterNumber: 21003158
+~~~
 ```Python
 
 # Read image and convert it to grayscale image
